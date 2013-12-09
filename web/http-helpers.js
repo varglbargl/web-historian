@@ -10,8 +10,9 @@ exports.headers = headers = {
 };
 
 exports.serveStaticAssets = function(res, folder, asset) {
-  //Write some code here that helps serve up your static files!
-  //(Static files are things like html (yours or arhived from others...), css, or anything that doesn't change often.)
+  // Write some code here that helps serve up your static files!
+  // (Static files are things like html (yours or arhived from others...),
+  // css, or anything that doesn't change often.)
 };
 
 // As you go through, keep thinking about what helper functions you can put here!
